@@ -6,4 +6,4 @@ b)	打破医院间的数据孤岛。基于对病人隐私与病例数据的保�
 
 c)	利用目前已有的公共卫生数据交换平台作为每级数据的交换节点，形成实时自动化的数据交换机制。各区之间的传染病报告数据在市级防疫链同步，形成具备一定区域自治能力的防疫网络。
 
-(https://github.com/peterrrre/epidemic-prevention-and-control-on-blockchain/blob/master/%E7%96%AB%E6%83%85%E9%A2%84%E8%AD%A6/yqfk.png)
+![yqfk](https://github.com/peterrrre/epidemic-prevention-and-control-on-blockchain/blob/master/%E7%96%AB%E6%83%85%E9%A2%84%E8%AD%A6/yqfk.png)
